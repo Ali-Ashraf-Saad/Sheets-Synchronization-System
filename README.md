@@ -114,7 +114,7 @@ The **Sheets Synchronization System** is a powerful Google Apps Script solution 
 
 1. Edit the `CONFIG` object at the top of the script
 2. Add your source sheet IDs to `SOURCE_SHEET_IDS` array
-3. Adjust other settings as needed (see [Configuration](#-configuration))
+3. Adjust other settings as needed
 4. Save the script
 
 ### Step 5: Initial Setup
@@ -478,7 +478,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ```
 MIT License
@@ -504,9 +504,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 Support
 
-- 📧 Email: support@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/sheets-sync/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/sheets-sync/wiki)
+- 📧 Email: ali.ashraf104735@ci.menofia.edu.eg
 
 ---
 
