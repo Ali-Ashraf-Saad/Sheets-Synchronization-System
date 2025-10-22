@@ -96,7 +96,7 @@ The **Sheets Synchronization System** is a powerful Google Apps Script solution 
 
 ### Step 2: Copy the Script
 
-1. Copy the entire script from [sync-system.gs](link-to-your-script)
+1. Copy the entire script from [sync-system.gs](https://github.com/Ali-Ashraf-Saad/Sheets-Synchronization-System/blob/main/code.gs)
 2. Paste it into the Apps Script editor
 3. Save with **Ctrl+S** (or **Cmd+S** on Mac)
 4. Name your project (e.g., "Sync System")
